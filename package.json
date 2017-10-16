@@ -14,7 +14,7 @@
     "eject": "react-scripts eject",
     "deploy" : "npm run build&&gh-pages -d build"
   },
-  "homepage": "https://alex-dmtr.github.io/alex-dmtr.github.io",
+  "homepage": "https://alex-dmtr.github.io/web",
   "devDependencies": {
     "gh-pages": "^1.0.0"
   }

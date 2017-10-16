@@ -11,8 +11,8 @@ class App extends Component {
           <h1>Alex <strong>Dumitru</strong> <small> | Web Developer </small></h1> 
 
           <h3> <small>
-          <a href="https://www.linkedin.com/in/alexdmtr/">&bull; LinkedIn</a>
-            <a href="https://github.com/alex-dmtr">&bull; GitHub</a>
+          <a href="https://www.linkedin.com/in/alexdmtr/" target="_blank">&bull; LinkedIn</a>
+            <a href="https://github.com/alex-dmtr" target="_blank">&bull; GitHub</a>
            
 
             </small></h3>
